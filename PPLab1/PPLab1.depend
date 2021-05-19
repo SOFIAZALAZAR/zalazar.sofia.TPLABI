@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1621435403 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\pplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moto.h"
+	"utn.h"
+
+1621293201 c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\pplab1\utn.h
+
+1621293155 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\pplab1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1621435515 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\pplab1\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moto.h"
+	"utn.h"
+
+1621435408 c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\pplab1\moto.h
+	"utn.h"
+
